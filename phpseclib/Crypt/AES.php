@@ -47,7 +47,7 @@
  * @link      http://phpseclib.sourceforge.net
  */
 
-namespace phpseclib3\Crypt;
+namespace phpseclib\Crypt;
 
 /**
  * Pure-PHP implementation of AES.
